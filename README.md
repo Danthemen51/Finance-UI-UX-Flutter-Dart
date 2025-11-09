@@ -64,12 +64,6 @@ Run the app:
 
 flutter run  
 
-📁 Project Structure
-├── models/       # Data models (e.g., transaction, user, etc.)
-├── screens/      # UI screens (e.g., dashboard, details)
-├── widgets/      # Reusable UI components (cards, lists)
-└── main.dart     # App entry point
-
 🎨 UI Style & Customization
 
 Colours, fonts and icons are set in the respective widget files—feel free to update them to match your brand or design language.
