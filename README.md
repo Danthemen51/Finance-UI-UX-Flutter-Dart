@@ -57,6 +57,7 @@ Navigate into the project directory:
 
 cd Finance-UI-UX-Flutter-Dart  
 
+Put all folders and this file to lib
 
 Get the dependencies:
 
