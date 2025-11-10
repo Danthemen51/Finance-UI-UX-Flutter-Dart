@@ -2,6 +2,9 @@
 
 A simple and modern finance app UI built with Flutter and Dart.
 
+# Author
+Dandi Mulyana (232101182)
+
 # 📱 UI Design
 
 <img width="257" height="349" alt="image" src="https://github.com/user-attachments/assets/34df70ce-15cb-4009-be23-12d01bbbdc57" />
